@@ -1,3 +1,3 @@
-# WhatsApp Clone
-This project is a WhatsApp clone built using React and FireBase.
+# Flare
+Flare is a Social media application built using Mern Stack.
 
